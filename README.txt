@@ -1,1 +1,1 @@
-This project is meant to read in PPM images in both P3 and P6 format and it is able to write PPm images in both of those formats as well.
+This project is meant to read in PPM images in both P3 and P6 format and it is able to write PPM images in both of those formats as well.
